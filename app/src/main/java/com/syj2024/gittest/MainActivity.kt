@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         var name= "sam"
+        var age=20
     }
 }
